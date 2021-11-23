@@ -1,6 +1,6 @@
 ![ye](https://i.imgur.com/WNN82Mz.png)
 
-**Demo link**: [https://virtohardiman.github.io/hobbywebsite/](https://virtohardiman.github.io/hobbywebsite/)
+**Demo link**: [https://virtohardiman.github.io/personal-hobby-website/](https://virtohardiman.github.io/personal-hobby-website/)
 
 **Project name**: Personal hobby website
 
