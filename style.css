@@ -271,13 +271,13 @@ header.hobbies-page {
   margin-top: 124px;
 }
 
-.badminton-page .description h3 {
+.description h3 {
   font-size: 64px;
   font-weight: 500;
   line-height: 96px;
 }
 
-.badminton-page .description p {
+.description p {
   font-size: 24px;
   font-weight: 400;
   line-height: 36px;
@@ -296,11 +296,11 @@ header.hobbies-page {
   flex-flow: column nowrap;
 }
 
-.badminton-page .first-row .photos .first-photo {
+.first-photo {
   position: relative;
 }
 
-.badminton-page .first-row .photos .first-photo button {
+.first-photo button {
   position: absolute;
   width: 80px;
   height: 80px;
@@ -312,7 +312,7 @@ header.hobbies-page {
   border: none;
 }
 
-.badminton-page .first-row .photos .second-and-third-photos {
+.second-and-third-photos {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
@@ -327,7 +327,7 @@ header.hobbies-page {
   height: 1080px;
 }
 
-.badminton-page .second-row .photos img:nth-child(2) {
+.badminton-page .photos img:nth-child(2) {
   margin-left: 20px;
 }
 
@@ -349,37 +349,23 @@ header.hobbies-page {
   padding-top: 240px;
 }
 
-.gaming-page .first-row .description h3 {
-  font-size: 64px;
-  font-weight: 500;
-  line-height: 96px;
-}
-
-.gaming-page .first-row .description p {
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 36px;
-  color: #656777;
-  margin-top: 22px;
-}
-
 .gaming-page .first-row .photos {
   position: relative;
   width: 580px;
   height: 560px;
 }
 
-.gaming-page .first-row .photos .game-boy,
-.gaming-page .first-row .photos .clone-console {
+.game-boy,
+.clone-console {
   position: absolute;
 }
 
-.gaming-page .first-row .photos .game-boy {
+.game-boy {
   top: 12px;
   left: 14px;
 }
 
-.gaming-page .first-row .photos .clone-console {
+.clone-console {
   right: 10px;
   bottom: 10px;
 }
@@ -396,31 +382,31 @@ header.hobbies-page {
   margin-left: 60px;
 }
 
-.gaming-page .second-row .description .title {
+.title {
   display: flex;
   flex-flow: row nowrap;
   justify-content: flex-start;
 }
 
-.gaming-page .second-row .description .title ~ .title {
+.gaming-page .title ~ .title {
   margin-top: 30px;
 }
 
-.gaming-page .second-row .description .title div {
+.title div {
   width: 28px;
   height: 28px;
   border-radius: 14px;
   background-color: #4ecdc4;
 }
 
-.gaming-page .second-row .description .title h4 {
+.gaming-page h4 {
   font-size: 32px;
   font-weight: 500;
   line-height: 32px;
   margin-left: 18px;
 }
 
-.gaming-page .second-row .description p {
+.gaming-page .second-row p {
   font-size: 24px;
   font-weight: 400;
   line-height: 36px;
@@ -443,7 +429,7 @@ header.hobbies-page {
   height: 380px;
 }
 
-.music-page .first-row .photo > img {
+.photo > img {
   position: absolute;
 }
 
@@ -461,22 +447,8 @@ header.hobbies-page {
   margin-left: 74px;
 }
 
-.music-page .first-row .description h3 {
-  font-size: 64px;
-  font-weight: 500;
-  line-height: 96px;
-}
-
-.music-page .first-row .description h3 span {
+h3 span {
   color: #4ecdc4;
-}
-
-.music-page .first-row .description p {
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 36px;
-  color: #656777;
-  margin-top: 22px;
 }
 
 .music-page .second-row {
@@ -488,38 +460,22 @@ header.hobbies-page {
 }
 
 .music-page .second-row .description h3 {
-  font-size: 64px;
-  font-weight: 500;
-  line-height: 96px;
   margin: 116px 0 46px;
 }
 
-.music-page .second-row .description .title {
-  display: flex;
-  justify-content: flex-start;
-}
-
-.music-page .second-row .description .title h4 {
+.music-page h4 {
   font-size: 32px;
   font-weight: 500;
   line-height: 40px;
   margin-left: 10px;
 }
 
-.music-page .second-row .description .title ~ .title {
+.music-page .title ~ .title {
   margin-top: 74px;
 }
 
-.music-page .second-row .description .title ~ .title h4 {
+.music-page .title ~ .title h4 {
   margin-left: 6px;
-}
-
-.music-page .second-row .description p {
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 36px;
-  color: #656777;
-  margin-top: 22px;
 }
 
 .music-page .second-row .photo {
@@ -527,10 +483,6 @@ header.hobbies-page {
   width: 380px;
   height: 370px;
   margin-top: 282px;
-}
-
-.music-page .second-row .photo > img {
-  position: absolute;
 }
 
 .music-page .second-row .photo img:nth-child(1) {
