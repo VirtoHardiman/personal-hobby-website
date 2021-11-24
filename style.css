@@ -76,7 +76,7 @@ nav {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
-  margin-top: 170px;
+  margin-top: 294px;
 }
 
 .hero-header h1 {
@@ -99,25 +99,19 @@ nav {
 .decoration,
 .profile {
   position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .decoration {
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin-left: auto;
-  margin-right: auto;
-  width: 1000px;
+  width: 1014px;
 }
 
 .profile {
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin-left: auto;
-  margin-right: auto;
-  width: 1000px;
-  width: 500px;
+  width: 540px;
 }
 
 .favourite-hobby {
