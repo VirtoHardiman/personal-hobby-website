@@ -1,4 +1,4 @@
-![ye](https://i.imgur.com/WNN82Mz.png)
+![Project Cover](https://i.imgur.com/WNN82Mz.png)
 
 **Demo link**: [https://virtohardiman.github.io/personal-hobby-website/](https://virtohardiman.github.io/personal-hobby-website/)
 
