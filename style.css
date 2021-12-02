@@ -36,26 +36,22 @@ header {
   padding: 10px 40px;
 }
 
-.header-container a {
+nav {
+  display: flex;
+  justify-content: space-between;
+  width: 740px;
+}
+
+nav a {
   display: inline-block;
   text-decoration: none;
-}
-
-nav {
-  display: inline-block;
-}
-
-.menu {
+  word-wrap: break-word;
+  width: 165px;
   border: none;
-  background: none;
-  color: #191e3f;
   font-family: "Karla", sans-serif;
+  color: #191e3f;
   font-size: 32px;
-  margin-right: 36px;
-}
-
-.menu.last {
-  margin-right: 0;
+  text-align: center;
 }
 
 .hero-bg {

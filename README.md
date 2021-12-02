@@ -19,6 +19,8 @@
 
 **The course that I followed:** [Introduction to CSS](https://frontendmasters.com/bootcamp/introduction-css/)
 
+**Shot template:** [Screenly - Shot Template](https://www.figma.com/community/file/1010486725986952834)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
